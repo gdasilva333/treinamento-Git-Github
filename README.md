@@ -12,7 +12,7 @@ Curso de versionamento de código com Git e Github.
 
 |Aulas | Resumos |
 |------|---------|
-|Gravando alterações no Repositório local | [Resumos]()|
+|Gravando alterações no Repositório local | [Resumos](https://github.com/gdasilva333/treinamento-Git-Github/tree/main/resumos)|
 ---
 git init
 ---
